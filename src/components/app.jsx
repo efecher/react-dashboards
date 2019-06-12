@@ -1,6 +1,7 @@
 import React from 'react';
 import Units from './units';
 import News from './news';
+import Spotlight from './spotlight';
 
 class App extends React.Component {
   constructor(props) {
@@ -35,10 +36,12 @@ class App extends React.Component {
     let renderCategory;
     
     switch(this.state.view) {
-      case 'units': renderCategory = <Units dashboardData={this.state.dashboardData} mode={this.state.view} />; 
+      case 'units': renderCategory = <Units dashboardData={this.state.dashboardData} mode={this.state.view.toUpperCase()} />; 
         break;
-      case 'news': renderCategory = <News dashboardData={this.state.dashboardData} mode={this.state.view} />; 
+      case 'news': renderCategory = <News dashboardData={this.state.dashboardData} mode={this.state.view.toUpperCase()} />; 
         break;
+      case 'spotlight': renderCategory = <Spotlight dashboardData={this.state.dashboardData} mode={this.state.view.toUpperCase()} />; 
+      break;
       default: renderCategory = <p>Please choose a category.</p>; break;
     }
     return(
@@ -49,6 +52,9 @@ class App extends React.Component {
           </div>
           <div className="cell medium-2">
             <button className="button" onClick={(e) => this.handleViewChange(e, "news")}>News</button>
+          </div>
+          <div className="cell medium-2">
+            <button className="button" onClick={(e) => this.handleViewChange(e, "spotlight")}>Spotlight</button>
           </div>
         </section>
         <section>
