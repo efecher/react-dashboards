@@ -1,0 +1,1251 @@
+{
+  "created": "Mon, 13 May 2019 21:10:24 GMT",
+  "elementName": "Spotlight",
+  "elementID": 263274,
+  "count": 64,
+  "data": [
+    {
+      "classYear": 2019,
+      "majors": [
+        "F3FCFDDF-B581-72B0-1ADAEBE5AFD4304B"
+      ],
+      "state": "Montana",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-victoria-blakey-padilla.cfm",
+      "name": "Victoria Blakey-Padilla",
+      "minors": [
+        "B7E71A3F-F241-DAC5-A6A47B668D73EAEF"
+      ],
+      "youtubeVideo": "J0zQZo7ZGJY",
+      "pageID": 268786,
+      "teaser": "<p>Victoria Blakey-Padilla contributed to important cancer research during her freshman year. </p>",
+      "city": "Gardiner",
+      "country": "",
+      "uuid": "854A87B6-EDA1-AB43-BDD618B7DD0F836C"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E5578914-CC98-DAA4-D28FBCDB3931C1A9"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-joshua-steier.cfm",
+      "name": "Joshua Steier",
+      "minors": [
+        "E67E95B3-F0DA-7A98-4856ABC3EA0F62BE",
+        "82398638-F2B3-8A6C-2DFB8DD10FBC8628"
+      ],
+      "youtubeVideo": "wm3tlczl32Y",
+      "pageID": 268804,
+      "teaser": "<p>Joshua Steier’s grant-funded research led to an internship and a job offer from the U.S Department of Justice.</p>",
+      "city": "Huntington Station",
+      "country": "",
+      "uuid": "8BE29835-DA06-F019-61195A031C2158BA"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "Florida",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-kylie-lan-tumiatti.cfm",
+      "name": "Kylie Lan Tumiatti",
+      "minors": [
+        "6495574F-99D4-2FC6-FD847B8130D8CCC4"
+      ],
+      "youtubeVideo": "O5QYGGT7jE8",
+      "pageID": 268883,
+      "teaser": "<p>Kylie Lan Tumiatti completed three internships, studied in Indonesia and received multiple prestigious awards, including a Fulbright and a Pickering.</p>",
+      "city": "Melbourne",
+      "country": "",
+      "uuid": "8C5B128C-0C31-7071-DBDE6C00D3579FE2"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "88081D5D-A33A-9FBF-BB57F6C67353E3E9"
+      ],
+      "state": "New Jersey",
+      "level": "Graduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-angeli-fernandes.cfm",
+      "name": "Angeli Fernandes",
+      "minors": [
+        "B5A1BB97-9A86-17C5-F0FA324001287E0B",
+        "676AF383-B68C-ED3E-B5EEDB1C3B997613"
+      ],
+      "youtubeVideo": "tA4f6MxCCUE",
+      "pageID": 268891,
+      "teaser": "<p>Angeli Fernandes is a quintessential overachiever, and at Seton Hall she was able to pursue everything she wanted.</p>",
+      "city": "Randolph",
+      "country": "",
+      "uuid": "8D0B5559-9324-AFA6-38327039F28D3C08"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        
+      ],
+      "state": "Vermont",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-jonathan-thow.cfm",
+      "name": "Jonathan Thow",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "tC1-SGXKJCI",
+      "pageID": 268906,
+      "teaser": "<p>Jonathan Thow pursues his passions for nursing and debate at Seton Hall. </p>",
+      "city": "Sharon",
+      "country": "",
+      "uuid": "8DB7833A-E57C-FE31-DA547588949949AC"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6",
+        "88081D5D-A33A-9FBF-BB57F6C67353E3E9",
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-prachi-makkar.cfm",
+      "name": "Prachi Makkar",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "bFgp_28zSdk",
+      "pageID": 268913,
+      "teaser": "<p>Stillman student Prachi Makkar’s internship at JPMorgan Chase landed her a full-time job there upon graduation.</p>",
+      "city": "Springfield",
+      "country": "",
+      "uuid": "8E665733-AB75-0595-A1BE5679037ED9D1"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "530931F3-B849-613D-4A74E7C02C632DC5"
+      ],
+      "state": "Indiana",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-briana-glass.cfm",
+      "name": "Briana Glass",
+      "minors": [
+        "1DA768DD-A365-F2F5-A7287695E35AF681"
+      ],
+      "youtubeVideo": "NRycAYTkc_Q",
+      "pageID": 269176,
+      "teaser": "<p>Briana Glass' leadership training and work with The Career Center resulted in her securing four internships, including two summer internships and a full-time job offer from Google.</p>",
+      "city": "Carmel",
+      "country": "",
+      "uuid": "54CD69B6-FBB3-806D-64E3AF5584B82270"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A"
+      ],
+      "state": "Florida",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-paul-murphy.cfm",
+      "name": "Paul Murphy",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "vafM7At8u6A",
+      "pageID": 269189,
+      "teaser": "<p>Several months before graduating, Paul had already accepted a full-time job from CNN, turning down other offers from the BBC and the French Associated Press. &quot;I owe it all to Seton Hall: the connections, reputation, and the support of the whole community pushing me to succeed.&quot;</p>",
+      "city": "Tallahassee",
+      "country": "",
+      "uuid": "5560EFB3-CAAB-0A67-B63BD19B33B03326"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "166E09A0-B97F-570C-EABB9553A4C879D9"
+      ],
+      "state": "Connecticut",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-delores-sarfo-darko.cfm",
+      "name": "Delores Sarfo-Darko",
+      "minors": [
+        "4F8FE304-F261-730A-8D0BA72E7B4AC95E"
+      ],
+      "youtubeVideo": "2UxSP2bZCwQ",
+      "pageID": 269205,
+      "teaser": "<p>Delores created a non-profit public outreach program to empower young girls, which was recognized by CNN.</p>",
+      "city": "East Hartford",
+      "country": "",
+      "uuid": "56181A10-0C84-1ACB-AB621505FBEEFDC2"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "82EB894D-A51B-D863-EE5420960BC1AD86"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-charlie-mule.cfm",
+      "name": "Charlie Mule",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "Lx-_aaBynqM",
+      "pageID": 269218,
+      "teaser": "<p>Charles Mule internships at the Mets, the New York Giants and the <em>YES Network</em> led to a job in PR at the New York Mets.</p>",
+      "city": "Toms River",
+      "country": "",
+      "uuid": "56C2F83D-AA10-3A25-23E00D708FC1935E"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "87588D8E-E80A-245E-CC361B2C2B411ACC"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-emily-slate.cfm",
+      "name": "Emily Slate",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "55zY77ngQaQ",
+      "pageID": 269243,
+      "teaser": "<p>Emily Slate turns a coveted externship and clinical experience in the Philippines into job success.</p>",
+      "city": "Augusta",
+      "country": "",
+      "uuid": "57E91E14-B81D-D541-4AB32D5BC1A773F0"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "4B0D8499-A15F-BFA1-2CB1958BDC61F253"
+      ],
+      "state": "Florida",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-fernanda-duarte.cfm",
+      "name": "Fernanda Duarte",
+      "minors": [
+        "F7978C80-B6C1-5138-BCF4DE8366CE823F"
+      ],
+      "youtubeVideo": "gA4TupPi9BY",
+      "pageID": 269266,
+      "teaser": "<p>NASA funded Fernanda Duarte’s research as a sophomore at Seton Hall.</p>",
+      "city": "Miami",
+      "country": "",
+      "uuid": "583333F9-0300-22C3-B2F088B6BD97B625"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "82EB894D-A51B-D863-EE5420960BC1AD86"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-clayton-collier.cfm",
+      "name": "Clayton Collier",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "szmj9B8tUt0",
+      "pageID": 269282,
+      "teaser": "<p>Clayton Collier started working at Seton Hall's radio station, WSOU, the day he stepped on campus.</p>",
+      "city": "Port Jefferson",
+      "country": "",
+      "uuid": "58BEB930-E7AA-3A87-B71627742B1845A6"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-francesca-regalado.cfm",
+      "name": "Francesca Regalado",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "WzEoaoAUjKo",
+      "pageID": 269292,
+      "teaser": "<p>Francesca Regalado's internship at <i>The New York Times</i> and her work on <i>The Diplomatic Envoy</i> led her to a post-graduation reporting job at Japan’s largest newspaper. </p>",
+      "city": "Manila",
+      "country": "Philippines",
+      "uuid": "591C642E-ACFC-9D80-6E9F5AB77F78519C"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "88081D5D-A33A-9FBF-BB57F6C67353E3E9"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-malik-dye.cfm",
+      "name": "Malik Dye",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "bRaOZ6OpmjE",
+      "pageID": 269306,
+      "teaser": "<p>Malik became a member of the Seton Hall community in the 8th grade, when he joined the Upward Bound program.</p>",
+      "city": "Elizabeth",
+      "country": "",
+      "uuid": "59AFFB5A-9833-9079-F9E3B0D12C395626"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "B0EA90D4-CAC5-2F1E-3F2EEA23722FACCB"
+      ],
+      "state": "Ohio",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-cassie-denbow.cfm",
+      "name": "Cassie Denbow",
+      "minors": [
+        "1DA768DD-A365-F2F5-A7287695E35AF681"
+      ],
+      "youtubeVideo": "DKOo1o90p-8",
+      "pageID": 269322,
+      "teaser": "<p>Cassie's experiences studying abroad prepared her for a Clinton Foundation/AIF fellowship in India after graduation.</p>",
+      "city": "Cleveland",
+      "country": "",
+      "uuid": "5B6AFEC1-95DF-3E71-F3FBCC920E4425BB"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E5F8CF30-BEFE-E5B4-1DEE1D372AD4AD08"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-augustine-glazov.cfm",
+      "name": "Augustine Glazov",
+      "minors": [
+        "F7978C80-B6C1-5138-BCF4DE8366CE823F"
+      ],
+      "youtubeVideo": "dAoYfvuRUug",
+      "pageID": 269468,
+      "teaser": "<p>Gus Glazov’s passion for philosophy led to his participation in several national conferences as an undergraduate.</p>",
+      "city": "Belle Mead",
+      "country": "United States",
+      "uuid": "8C6CACFB-9F9A-1553-EEB3BB086B5EC1A4"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "E5F8CF30-BEFE-E5B4-1DEE1D372AD4AD08"
+      ],
+      "state": "Oregon",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-megan-ferguson.cfm",
+      "name": "Megan Ferguson",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "56CzsrEQ2hA",
+      "pageID": 269476,
+      "teaser": "<p>Megan Ferguson took full advantage of her time at Seton Hall.</p>",
+      "city": "Tualatin",
+      "country": "",
+      "uuid": "8CEAB789-F8C5-0D7A-26BE10FC2340DF61"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "56556AFE-96DA-57B9-C891179B88907013",
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-dwayne-greene.cfm",
+      "name": "Dwayne Greene",
+      "minors": [
+        "8730B281-9C76-1EBA-7A6DCECA85AE73CC"
+      ],
+      "youtubeVideo": "BAdMMhIHTrY",
+      "pageID": 269483,
+      "teaser": "<p>At Seton Hall Dwayne was able to combine his interests: corporate law, finance and accounting.</p>",
+      "city": "Barbados and Somerset",
+      "country": "",
+      "uuid": "8D2ADC51-FA4F-238B-8F98D41FF8DEA3FC"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "82EB894D-A51B-D863-EE5420960BC1AD86",
+        "2144A961-90BE-84E7-5FE7433EA2B49A9B"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-siobhan-mcgirl.cfm",
+      "name": "Siobhan McGirl",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "4-3oABEG4jo",
+      "pageID": 269493,
+      "teaser": "<p>Siobhan McGirl began a reporting job at a CBS-affiliate station in Roanoke, Va. right after graduation.</p>",
+      "city": "Turnersville",
+      "country": "",
+      "uuid": "8EB2766B-A155-124E-A7117551239779EF"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "E294EFA0-D4A3-4DFB-4FE5944615CDCD7F"
+      ],
+      "state": "",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-luis-sosa.cfm",
+      "name": "Luis Sosa",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "qpxJENe0hNc",
+      "pageID": 269501,
+      "teaser": "<p>Luis Rafael Sosa Santiago explored his passion for law and international relations at Seton Hall.</p>",
+      "city": "",
+      "country": "Dominican Republic",
+      "uuid": "906ACE9F-97B4-F920-143DF5BFD329FE5E"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "Connecticut",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-christopher-mazzacane.cfm",
+      "name": "Christopher Mazzacane",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "GfmOWKqOy1s",
+      "pageID": 269508,
+      "teaser": "<p>Christopher Mazzacane graduated with impressive credentials: an internship with US Senator Gillibrand, world travel and a Fulbright scholarship.</p>",
+      "city": "West Haven",
+      "country": "",
+      "uuid": "90BDFB98-F5B8-AA50-C025BFB170741D58"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "82EB894D-A51B-D863-EE5420960BC1AD86"
+      ],
+      "state": "California",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-tiffany-knighten.cfm",
+      "name": "Tiffany Knighten",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "Yvh9mz61b1w",
+      "pageID": 269515,
+      "teaser": "<p>Tiffany Knighten lined up an enviable post-graduation job in social media at MTV thanks to multiple internships at top companies.</p>",
+      "city": "Los Angeles",
+      "country": "",
+      "uuid": "910A1960-0186-772A-F965373F74410FE4"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "49ACDFF6-0A8D-8F3B-C8D9B72B92C56C24"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-jordan-mabalatan.cfm",
+      "name": "Jordan Mabalatan",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "w6yEo7LaFjA",
+      "pageID": 269619,
+      "teaser": "<p>With six clinical internships, and lots of hard work, nursing student Jordan Mabalatan started his nursing career well before he was set to graduate.</p>",
+      "city": "Bloomfield",
+      "country": "",
+      "uuid": "BA433E4D-B73E-651A-767B478C5371B880"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "B1EF6872-9896-5CE1-44A57899BB95269E",
+        "31ED555F-0FCF-A9D4-F3FD315370381269"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-conor-murtagh.cfm",
+      "name": "Conor Murtagh",
+      "minors": [
+        "5294FF0E-9C04-0660-F3747FBD17776B0B"
+      ],
+      "youtubeVideo": "JMhmaVmPFNA",
+      "pageID": 269626,
+      "teaser": "<p>Former Marine Conor Murtagh followed his calling to become a teacher and earned a Fulbright along the way.</p>",
+      "city": "Long Valley",
+      "country": "",
+      "uuid": "BAC42A77-E434-B21E-0F294F85F48E7C6F"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "7F3F1503-AC3B-8D8C-F2198B5761869F45"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-richard-greendyk.cfm",
+      "name": "Richard Greendyk",
+      "minors": [
+        "B6E9AACF-AD5C-B9EB-C5CBD6C1B246D295",
+        "1DA768DD-A365-F2F5-A7287695E35AF681"
+      ],
+      "youtubeVideo": "hTjYPbKDvK8",
+      "pageID": 269633,
+      "teaser": "<p>For Richard Greendyk, Seton Hall is a family affair; he joined his two cousins and his sister as proud Pirates.</p>",
+      "city": "West Milford",
+      "country": "",
+      "uuid": "BB12B46E-EBB5-ACF6-08CDE326AA845D11"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "B0EA90D4-CAC5-2F1E-3F2EEA23722FACCB"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-cara-richardson.cfm",
+      "name": "Cara Richardson",
+      "minors": [
+        "956CF9D4-B601-AAA0-8C5821C25A44A38F",
+        "1DA768DD-A365-F2F5-A7287695E35AF681"
+      ],
+      "youtubeVideo": "LlCOb6DK3zI",
+      "pageID": 269641,
+      "teaser": "<p>Cara Richardson knew she made one the best decisions of her life when she decided to transfer from Syracuse to Seton Hall University.</p>",
+      "city": "Bridgewater",
+      "country": "",
+      "uuid": "BB62C1B6-0D84-B116-B20C2A24386953AE"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-sagarika-gujar.cfm",
+      "name": "Sagarika Gujar",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "5MadEDlxHAk",
+      "pageID": 269652,
+      "teaser": "<p>Coming from India, Sagarika found a home at Seton Hall.</p>",
+      "city": "Mumbai",
+      "country": "India",
+      "uuid": "BBBEC287-0A20-6524-40712C467F91278E"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "82EB894D-A51B-D863-EE5420960BC1AD86"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-stephanie-gomulka.cfm",
+      "name": "Stephanie Gomulka",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "C3uG7ZFhxQQ",
+      "pageID": 269659,
+      "teaser": "<p>Stephanie worked with Seton Hall's Career Center, and by her sophomore year she had begun the first of five internships.</p>",
+      "city": "Linden",
+      "country": "",
+      "uuid": "BC10C0CE-B652-68AB-33A0D1FED56A5360"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-danielle-andreani.cfm",
+      "name": "Danielle Andreani",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "sYAwyJmqDfA",
+      "pageID": 269668,
+      "teaser": "<p>By the end of her junior year, Danielle Andreani had completed four internships, attended three study abroad programs and conducted research for local businesses with her professor. </p>",
+      "city": "Valley Stream",
+      "country": "",
+      "uuid": "BC6B70CA-A33C-41E8-72696A2567B982C7"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "56556AFE-96DA-57B9-C891179B88907013"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-dominique-fortes.cfm",
+      "name": "Dominique Fortes",
+      "minors": [
+        "B4B5AC6F-C52F-44BE-42FBD7D8ED68BC67"
+      ],
+      "youtubeVideo": "3zzmaCeQUCc",
+      "pageID": 269675,
+      "teaser": "<p>Dominique Fortes graduates from Seton Hall with an enviable task: choosing between a job offer from Ernst &amp; Young, attending the University of Oxford, or accepting a Fulbright award. </p>",
+      "city": "Parsippany",
+      "country": "",
+      "uuid": "BCA9C342-FB16-2ADC-1FECC90BB07DDAC2"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-cynthia-sularz.cfm",
+      "name": "Cynthia Sularz",
+      "minors": [
+        "8775B026-C3A5-62EF-C81C657F193DB621"
+      ],
+      "youtubeVideo": "hANJ4BIYoAY",
+      "pageID": 269682,
+      "teaser": "<p>In her sophomore year, Seton Hall's Cynthia Sularz was selected as the only person in the entire country to represent the United States at the G-20 Girls Summit in Australia.</p>",
+      "city": "West Milford",
+      "country": "",
+      "uuid": "BCD60648-D7EA-DE28-381DB2FEB05A21CE"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6",
+        "E5F8CF30-BEFE-E5B4-1DEE1D372AD4AD08"
+      ],
+      "state": "Connecticut",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-connor-reynolds.cfm",
+      "name": "Connor Reynolds",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "FeJicaVkBbY",
+      "pageID": 269689,
+      "teaser": "<p>Connor Reynolds wanted a complete college experience and he knew Seton Hall's proximity to New York meant access to countless internships and plenty of chances to hone his professional skills. </p>",
+      "city": "Torrington",
+      "country": "",
+      "uuid": "BD0AEB40-BDDF-7ACF-94CE2AA460102F1A"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6",
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-zach-blackwood.cfm",
+      "name": "Zach Blackwood",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "8P03QMH4Xuw",
+      "pageID": 269696,
+      "teaser": "<p>&quot;Seton Hall has been more than I ever hoped for,&quot; Zach Blackwood says when reflecting on his time at the University. </p>",
+      "city": "Hackettstown",
+      "country": "",
+      "uuid": "BD3F42C0-9145-1EC2-133C95184173E981"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "Arizona",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-selene-presseller.cfm",
+      "name": "Selene Presseller",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "9HWcQYmUlnI",
+      "pageID": 269703,
+      "teaser": "<p>When Selene Presseller graduates from Seton Hall, she will face an enviable challenge: she must choose to attend just one of the seven law schools she applied to. </p>",
+      "city": "Scottsdale",
+      "country": "",
+      "uuid": "BD79F6B0-DAB7-C3CC-3A2150DE33F6EFA4"
+    },
+    {
+      "classYear": 1998,
+      "majors": [
+        
+      ],
+      "state": "",
+      "level": "Graduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-crystal-dickinson.cfm",
+      "name": "Crystal Dickinson",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "RE5DHIkx378",
+      "pageID": 269710,
+      "teaser": "<p>Since graduating from Seton Hall, actress Crystal Dickinson '98 has performed at Lincoln Center and The Atlantic Theater Company and has appeared on television in Tyler Perry's &quot;House of Payne.&quot;</p>",
+      "city": "",
+      "country": "",
+      "uuid": "BDB2ECAA-D0B1-7661-1078AA1C78696E6D"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-ashley-jefferson.cfm",
+      "name": "Ashley Jefferson",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "93nNXIWA97Q",
+      "pageID": 269717,
+      "teaser": "<p>Thousands of college students across the NYC metro area answered a call to take part in a special sales challenge with Shark Tank co-host Kevin Leary on an episode of ABC's 20/20. </p>",
+      "city": "Lafayette",
+      "country": "",
+      "uuid": "BDE7195F-C37E-63D0-88CDBB5D4B3C45AA"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "EC038938-D71D-57D2-D10D374A67FC30C7"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-ben-starke.cfm",
+      "name": "Ben Starke",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "x2Vtc8enWtE",
+      "pageID": 269726,
+      "teaser": "<p>For Ben Starke, having access to world-class internships, state-of-the-art lab equipment, and being able to conduct research early on, were key factors in his decision to come to Seton Hall. </p>",
+      "city": "Wayne",
+      "country": "",
+      "uuid": "BE1B43EF-DD13-581F-66C14D6C4AA25085"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "1577F7BC-FF4B-C02F-D6048FAB06B068CE"
+      ],
+      "state": "New Hampshire",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-mercedes-cunningham.cfm",
+      "name": "Mercedes Cunningham",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "gKiH0Gvdizs",
+      "pageID": 269733,
+      "teaser": "<p>A two-sport athlete in high school, Mercedes Cunningham used her positive energy to overcome an injury while playing volleyball, and eventually, study athletic training.</p>",
+      "city": "Bethlehem",
+      "country": "",
+      "uuid": "BE462944-98A5-BDFE-90493C0EE9B842AA"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "530931F3-B849-613D-4A74E7C02C632DC5",
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "Texas",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-kristine-mamanta.cfm",
+      "name": "Kristine Mamanta",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "yhMTW-jp6Uw",
+      "pageID": 269769,
+      "teaser": "<p>After completing six competitive internships and studying abroad in Spain, Portugal, and Greece, Kristine Mamanta says, &quot;My time at Seton Hall was amazing. I did so much more than my friends who went to larger schools.&quot;</p>",
+      "city": "Houston",
+      "country": "",
+      "uuid": "33177F81-B848-828E-490919043C89E110"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "8A723B67-B547-8D61-444C8917479FE006"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-anna-negron.cfm",
+      "name": "Anna Negron",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "OCbCUzcaWe8",
+      "pageID": 269779,
+      "teaser": "<p>Anna Negron discusses internships, study abroad and her passion for sport management.</p>",
+      "city": "Vineland",
+      "country": "",
+      "uuid": "339C6FB0-F1F4-82F2-7F4B751C23826302"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E1B563CF-0443-69C3-B3F2A647DDF2F713"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-joe-donato.cfm",
+      "name": "Joe Donato",
+      "minors": [
+        "1DA768DD-A365-F2F5-A7287695E35AF681"
+      ],
+      "youtubeVideo": "5ObTpcTNekg",
+      "pageID": 269789,
+      "teaser": "<p>If there is one word that best describes Joe Donato's Seton Hall experience, it's &quot;leadership.&quot; He explained Seton Hall believes that leadership development is a vital part of the college experience.</p>",
+      "city": "Brooklyn",
+      "country": "",
+      "uuid": "345094D0-EC26-1E2A-8365B5B1D84E8DE8"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "EDCA33AC-BAED-DCF6-5A1949BCD4496243"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-chase-agapito.cfm",
+      "name": "Chase Agapito",
+      "minors": [
+        "1B0EA215-E317-4392-76D8508735CB88DC"
+      ],
+      "youtubeVideo": "",
+      "pageID": 269796,
+      "teaser": "<p>While attending one of the many Seton Hall career fairs, Chase Agapito met a representative from the Drug Enforcement Agency (DEA). Just a short time later he obtained an internship at the DEA thanks to this connection.</p>",
+      "city": "West Paterson",
+      "country": "",
+      "uuid": "348F24A5-FF51-0973-24B47D25DD6E95D0"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E1B563CF-0443-69C3-B3F2A647DDF2F713",
+        "31ED555F-0FCF-A9D4-F3FD315370381269"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-ricky-harzula.cfm",
+      "name": "Ricky Harzula",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "V8zWG2iyHGA",
+      "pageID": 269803,
+      "teaser": "<p>An education major, Ricky has always felt a calling to contribute to the greater good and help others. At Seton Hall, he also learned the true meaning of service.</p>",
+      "city": "South Plainfield",
+      "country": "",
+      "uuid": "34BC18CB-BDAE-0EB1-6011FFDDF527FC11"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E5578914-CC98-DAA4-D28FBCDB3931C1A9",
+        "31ED555F-0FCF-A9D4-F3FD315370381269"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-john-procopio.cfm",
+      "name": "John Procopio",
+      "minors": [
+        "E25D3A2F-E029-03BE-009108EDD2835503"
+      ],
+      "youtubeVideo": "1D7HEVqWMXs",
+      "pageID": 269810,
+      "teaser": "<p>When John Procopio was searching for a college, he asked himself: &quot;What university would best prepare me for a successful career as a teacher?&quot; John's answer, Seton Hall University.</p>",
+      "city": "Annandale",
+      "country": "",
+      "uuid": "34F98ED1-CB19-0FDB-ED8C8FA095B07A55"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "7F3F1503-AC3B-8D8C-F2198B5761869F45"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-amy-gao.cfm",
+      "name": "Amy Gao",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "OImnZ6vSoUU",
+      "pageID": 269817,
+      "teaser": "<p>One of only two students in the nation to be selected for a highly coveted research spot at the Children's National Medical Center in Washington, D.C., Amy Gao never dreamed she would have the kind of opportunities she obtained at Seton Hall University.</p>",
+      "city": "Livingston",
+      "country": "",
+      "uuid": "3535841D-C524-07C3-4F3E768ACF13B565"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "4B0D8499-A15F-BFA1-2CB1958BDC61F253"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-zach-darby.cfm",
+      "name": "Zach Darby",
+      "minors": [
+        "B4B5AC6F-C52F-44BE-42FBD7D8ED68BC67"
+      ],
+      "youtubeVideo": "",
+      "pageID": 269824,
+      "teaser": "<p>Zach Darby began doing research at Seton Hall during his freshman year, studying microplasma bacteria with Professor Jose Lopez, an international expert in plasma physics.</p>",
+      "city": "Manasquan",
+      "country": "",
+      "uuid": "356B58E8-D9E6-22BB-917F658DBF30E866"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "8C6D3236-A299-15BF-985D0905E240A04D"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-darryl-sessoms.cfm",
+      "name": "Darryl Sessoms",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "jZosKw0K0dw",
+      "pageID": 269831,
+      "teaser": "<p>Graduating with honors in just three and a half years and completing four amazing internships was something Darryl Sessoms never dreamed of. With a Seton Hall degree on his resume, Darryl landed a great job at CBS before he even graduated.</p>",
+      "city": "Union",
+      "country": "",
+      "uuid": "359EB3BF-B25F-040F-EA907DA56F693119"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "Pennsylvania",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-david-kelly.cfm",
+      "name": "David Kelly",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 269839,
+      "teaser": "<p>Long before the ink was dry on his diploma, Seton Hall's David Kelly was on his way to building a rewarding international career.</p>",
+      "city": "West Chester",
+      "country": "",
+      "uuid": "35D759EF-FC0C-C5F5-341D392B16EDA04E"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "89C8E499-CB5E-A97A-D3A19F9AA24EBDC6",
+        "8A723B67-B547-8D61-444C8917479FE006"
+      ],
+      "state": "Connecticut",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-kyle-packnick.cfm",
+      "name": "Kyle Packnick",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "PAuYiwvnhQM",
+      "pageID": 269846,
+      "teaser": "<p>One of Kyle Packnick’s six internships ultimately led to a dream job offer.</p>",
+      "city": "Shelton",
+      "country": "",
+      "uuid": "36067510-FE80-D686-5E0A7B7FF1AF9DD2"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "EC038938-D71D-57D2-D10D374A67FC30C7"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-albery-paula.cfm",
+      "name": "Albery Paula",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "cEJWpWMkKrY",
+      "pageID": 269853,
+      "teaser": "<p>Albery Paula kick-started her career while still a student.</p>",
+      "city": "North Bergen",
+      "country": "",
+      "uuid": "365F75DD-DBC0-B118-064639015345504B"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-kholood-qumei.cfm",
+      "name": "Kholood Qumei",
+      "minors": [
+        "86B2BBF7-D29E-35A5-F4D36AB02780D255",
+        "B4B5AC6F-C52F-44BE-42FBD7D8ED68BC67"
+      ],
+      "youtubeVideo": "H1MZUuFXMYE",
+      "pageID": 269860,
+      "teaser": "<p>With a Catholic mother from the Philippines and a Muslim father from Jordan, Kholood grew up straddling two cultures and two religions.</p>",
+      "city": "Brooklyn",
+      "country": "",
+      "uuid": "36907174-D221-8578-27565CDEC4206587"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A",
+        "192E8CC3-ADBD-EC21-6EFD54D03580C649"
+      ],
+      "state": "Alaska",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-daria-preston.cfm",
+      "name": "Daria Preston",
+      "minors": [
+        "6495574F-99D4-2FC6-FD847B8130D8CCC4"
+      ],
+      "youtubeVideo": "EI-H47js8DQ",
+      "pageID": 269867,
+      "teaser": "<p>For Daria Preston, study abroad was an essential piece of her Seton Hall education.</p>",
+      "city": "Palmer",
+      "country": "",
+      "uuid": "36C22E3A-CDDC-046E-76BB285E626A61B7"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-edward-cuza.cfm",
+      "name": "Edward Cuza",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "tYlXlOz6jWs",
+      "pageID": 269874,
+      "teaser": "<p>Eddie Cuza came to Seton Hall as a transfer student after serving as a medic in the Air Force, in Abu Dhabi. While he was deployed he said &quot;staff and faculty went above and beyond to help him and this really set Seton Hall apart.</p>",
+      "city": "Metuchen",
+      "country": "",
+      "uuid": "36ECBCBB-FD1C-EA31-93A16C9076BB28CF"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "E49226B8-06CE-AE89-5BC446797844ECFB"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/arts-sciences/what-great-minds-can-do-ryan-mccloskey-2.cfm",
+      "name": "What Great Minds Can Do: Ryan McCloskey",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270287,
+      "teaser": "<p>Irish eyes certainly smiled on Ryan in February 2018 when he was named among the <em>Irish Echo's</em> Irish 40 Under 40. </p>",
+      "city": "Chester",
+      "country": "",
+      "uuid": "21DF025A-AB81-13D4-79EA0084E6B0BEE6"
+    },
+    {
+      "classYear": "'05/M.A. '06",
+      "majors": [
+        "858A4E49-A47A-A946-BA977B67BD31E3E6"
+      ],
+      "state": "",
+      "level": "Graduate",
+      "url": "https://www.shu.edu/commarts-graduate-studies/great-minds/what-great-minds-can-do-stephen-alsa.cfm",
+      "name": "Stephen Alsa",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270297,
+      "teaser": "<p>Anyone who doubts what can be accomplished with a M.A in Museum Professions from Seton Hall's <a href=\"https://www.shu.edu/communication-arts/index.cfm\" id=\"CP___PAGEID=67935,index.cfm,47|\">College of Communication and the Arts</a> should look no further than Stephen Alsa '05/M.A. '06 for evidence.</p>",
+      "city": "",
+      "country": "",
+      "uuid": "227F824A-9ED1-71B0-E472843FA0B10FE0"
+    },
+    {
+      "classYear": 2017,
+      "majors": [
+        "858A4E49-A47A-A946-BA977B67BD31E3E6"
+      ],
+      "state": "",
+      "level": "Graduate",
+      "url": "https://www.shu.edu/commarts-graduate-studies/great-minds/what-great-minds-can-do-anna-baccaglini.cfm",
+      "name": "Anna Baccaglini",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270304,
+      "teaser": "<p>Anna Baccaglini '17 certainly has a resume stacked with valuable internship experience. </p>",
+      "city": "",
+      "country": "",
+      "uuid": "22CE05D7-9003-1361-E6B3E1D35FF37FAC"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "858A4E49-A47A-A946-BA977B67BD31E3E6"
+      ],
+      "state": "",
+      "level": "Faculty",
+      "url": "https://www.shu.edu/commarts-graduate-studies/great-minds/what-great-minds-can-do-charlotte-nichols-ph-d.cfm",
+      "name": "Charlotte Nichols, Ph.D.",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270353,
+      "teaser": "<p>To say that <a href=\"https://www.shu.edu/profiles/charlottenichols.cfm\" id=\"CP___PAGEID=76066,charlottenichols.cfm,6|\">Dr. Charlotte Nichols</a> is passionate about Italian Renaissance art would be like calling Leonardo da Vinci a pretty good artist — it's a complete understatement.</p>",
+      "city": "",
+      "country": "",
+      "uuid": "24BE8D9E-B946-9986-350FCA8AA98C15DB"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "858A4E49-A47A-A946-BA977B67BD31E3E6"
+      ],
+      "state": "",
+      "level": "Faculty",
+      "url": "https://www.shu.edu/commarts-graduate-studies/great-minds/what-great-minds-can-do-gregory-stevens.cfm",
+      "name": "Gregory Stevens",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270369,
+      "teaser": "<p>Professor Gregory Stevens has all the experience one could want in a new faculty associate and director for the <a href=\"https://www.shu.edu/academics/ma-museum-professions.cfm\" id=\"CP___PAGEID=133940,ma-museum-professions.cfm,12|\">M.A. in Museum Professions</a> program. </p>",
+      "city": "",
+      "country": "",
+      "uuid": "25304954-0CB3-7F93-034F7A0388F1C438"
+    },
+    {
+      "classYear": 2022,
+      "majors": [
+        "ECBE8E6B-A09E-E76F-A76B6853C14C771A"
+      ],
+      "state": "New York",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/leadership/great-minds/what-great-minds-can-do-joseph-mackenna.cfm",
+      "name": "Joseph MacKenna",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270813,
+      "teaser": "<p>Joseph MacKenna is a student in the school of Diplomacy and International Relations Major Class of 2022 and in the Buccino Leadership Program.</p>",
+      "city": "Kings Park Long Island",
+      "country": "",
+      "uuid": "2249186E-F067-FCE9-C44E4D53111D3253"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "EDCA33AC-BAED-DCF6-5A1949BCD4496243"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/diplomacy/great-minds/what-great-minds-can-do-vera-dimoplon.cfm",
+      "name": "Vera Dimoplon",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "",
+      "pageID": 270921,
+      "teaser": "<p>Recent graduate Vera Dimoplon is dedicated to advancing the rights of the disabled across international boundaries.</p>",
+      "city": "Plainsboro",
+      "country": "",
+      "uuid": "27E50216-F77B-19EF-25E65FB8429BE1D0"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "7F3F1503-AC3B-8D8C-F2198B5761869F45"
+      ],
+      "state": "New Jersey",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-yansel-nunez.cfm",
+      "name": "Yansel Nunez",
+      "minors": [
+        "9D4688BC-961D-23C1-3B4B8DEDC702FE3A"
+      ],
+      "youtubeVideo": "OwpxusPbHps",
+      "pageID": 272885,
+      "teaser": "<p>Born in Cuba, Yansel was the first in his immediate family to attend college. </p>",
+      "city": "Union City",
+      "country": "",
+      "uuid": "5AE07F1F-F39C-821C-EE9FF45DF49E046B"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "528DECC9-A8F6-AD6B-179AFC8A86E67B22"
+      ],
+      "state": "Virginia",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-chris-adams.cfm",
+      "name": "Chris Adams",
+      "minors": [
+        
+      ],
+      "youtubeVideo": "DgqyOvXOpMA",
+      "pageID": 272905,
+      "teaser": "<p>Chris Adams was drawn to Seton Hall because of its diversity as well as its Catholic mission.</p>",
+      "city": "Virginia Beach",
+      "country": "",
+      "uuid": "5C768EB5-A978-9712-A85512DC33E5A12A"
+    },
+    {
+      "classYear": "",
+      "majors": [
+        "7F3F1503-AC3B-8D8C-F2198B5761869F45"
+      ],
+      "state": "Kansas",
+      "level": "Undergraduate",
+      "url": "https://www.shu.edu/undergraduate-admissions/great-minds/what-great-minds-can-do-matthew-pennington.cfm",
+      "name": "Matthew Pennington",
+      "minors": [
+        "B6E9AACF-AD5C-B9EB-C5CBD6C1B246D295"
+      ],
+      "youtubeVideo": "IG8egToHpKU",
+      "pageID": 272914,
+      "teaser": "<p>Matt chose Seton Hall so he could benefit from the small classes and personal attention, &quot;When I was looking at colleges, I learned that some of the larger introductory classes (at other schools) would be taught by teaching assistants and other graduate students,&quot; he said.</p>",
+      "city": "Shawnee",
+      "country": "",
+      "uuid": "5D1214E4-F49B-FA09-808DB1D6304FF1BC"
+    }
+  ]
+}
